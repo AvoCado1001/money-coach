@@ -11,3 +11,6 @@ __pycache__/
 .env
 *.pyc
 venv/
+
+# .gitignore 파일 내용
+.env.local
